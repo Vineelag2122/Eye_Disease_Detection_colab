@@ -20,6 +20,10 @@ A lightweight Eye Disease Classification system using deep learning (transfer le
 ## Overview
 This project demonstrates building a classifier for common eye conditions using transfer learning. It uses a pretrained MobileNetV2 backbone as a feature extractor, adds a few dense layers on top, and serves predictions through a simple Flask web UI.
 
+## Dataset
+Live demo (production): https://web-production-ec56.up.railway.app/
+
+
 ## Supported Classes
 - Normal
 - Cataract
